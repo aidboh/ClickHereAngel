@@ -1,0 +1,136 @@
+%PDF-1.3
+%öäüß
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/OpenAction 3 0 R
+>>
+endobj
+4 0 obj
+<<
+/Producer (Haru Free PDF Library 2.0.8)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [5 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Type /Action
+/S /JavaScript
+/JS (app.alert\('Embedded Script by BREACHLOCK'\);)
+>>
+endobj
+5 0 obj
+<<
+/Type /Page
+/MediaBox [0 0 792 612]
+/Contents 6 0 R
+/Resources <<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+>>
+>>
+/Parent 2 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 488
+>>
+stream
+BT
+/F1 12 Tf
+ET
+BT
+213.68399 586.45441 Td
+/F1 12 Tf
+0 0 0 rg
+(\040Created\040By:\040\040on\040Dec\04031\0401969\04019:00\040--\040NO\040INFORMATION\040ENTERED) Tj
+ET
+BT
+ET
+BT
+ET
+BT
+10 10 Td
+/F2 10 Tf
+0 0 0 rg
+ET
+BT
+/F2 10 Tf
+/F2 10 Tf
+/F2 10 Tf
+/F2 10 Tf
+ET
+BT
+736.72998 588.39398 Td
+/F2 10 Tf
+0 0 0 rg
+(Page\040) Tj
+ET
+BT
+758.66998 588.39398 Td
+/F2 10 Tf
+0 0 0 rg
+(1) Tj
+ET
+BT
+763.66998 588.39398 Td
+/F2 10 Tf
+0 0 0 rg
+(\040of\040) Tj
+ET
+BT
+777 588.39398 Td
+/F2 10 Tf
+0 0 0 rg
+(1) Tj
+ET
+
+endstream
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /StandardEncoding
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /StandardEncoding
+>>
+endobj
+xref
+0 9
+0000000000 65535 f
+0000000015 00000 n
+0000000143 00000 n
+0000000200 00000 n
+0000000082 00000 n
+0000000302 00000 n
+0000000484 00000 n
+0000001025 00000 n
+0000001124 00000 n
+trailer
+<<
+/Root 1 0 R
+/Info 4 0 R
+/Size 9
+/ID [<D71FAAD0F084BC37067F987F84687802> <D71FAAD0F084BC37067F987F84687802>]
+>>
+startxref
+1224
+%%EOF
